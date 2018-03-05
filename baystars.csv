@@ -1,0 +1,36 @@
+number,name,avg,game,tpa,ab,hit,2b,3b,hr,tb,rbi,rs,so,bb,hbp,sh,sf,sb,cs,gdp,obp,slg,ops,risp,e,team
+0,山崎 憲晴,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+2,ロペス,0.301,142,606,569,171,42,0,30,303,105,72,80,27,2,0,8,0,0,14,0.330,0.533,0.863,0.322,6,baystars
+3,梶谷 隆幸,0.243,137,578,511,124,27,2,21,218,60,83,157,62,3,0,2,21,3,10,0.327,0.427,0.754,0.204,1,baystars
+4,荒波 翔,0.226,47,65,62,14,5,0,0,19,1,8,16,2,1,0,0,0,0,1,0.262,0.306,0.568,0.063,0,baystars
+5,倉本 寿彦,0.262,143,539,507,133,27,1,2,168,50,49,102,18,4,9,1,3,1,10,0.292,0.331,0.624,0.342,14,baystars
+6,白崎 浩之,0.185,34,55,54,10,3,0,0,13,4,5,19,1,0,0,0,0,0,0,0.200,0.241,0.441,0.300,1,baystars
+7,石川 雄洋,0.246,63,192,167,41,7,0,2,54,11,18,41,12,4,6,3,1,1,4,0.306,0.323,0.630,0.300,2,baystars
+10,戸柱 恭孝,0.214,112,363,336,72,13,0,9,112,52,25,59,19,0,6,2,0,0,9,0.255,0.333,0.588,0.316,2,baystars
+23,松尾 大河,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+25,筒香 嘉智,0.284,139,601,503,143,31,0,28,258,94,85,115,93,2,0,3,1,0,7,0.396,0.513,0.909,0.326,1,baystars
+31,柴田 竜拓,0.233,88,248,215,50,8,0,1,61,11,25,50,17,3,11,2,1,1,2,0.295,0.284,0.579,0.234,4,baystars
+32,髙城 俊人,0.250,29,61,56,14,0,3,0,20,4,11,15,3,0,2,0,0,1,1,0.288,0.357,0.645,0.231,2,baystars
+33,乙坂 智,0.190,83,66,63,12,3,0,2,21,3,7,13,1,1,1,0,0,0,0,0.215,0.333,0.549,0.077,0,baystars
+36,狩野 行寿,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+37,桑原 将志,0.269,143,664,598,161,38,5,13,248,52,87,116,45,11,10,0,10,11,8,0.332,0.415,0.747,0.287,3,baystars
+38,山下 幸輝,0.143,21,21,21,3,2,0,0,5,0,3,6,0,0,0,0,0,0,0,0.143,0.238,0.381,0.000,2,baystars
+39,嶺井 博希,0.248,52,135,121,30,3,1,3,44,12,14,35,4,6,4,0,0,0,3,0.305,0.364,0.669,0.206,1,baystars
+40,飛雄馬,0.000,3,5,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.000,0.000,0.000,0.000,0,baystars
+42,エリアン,0.250,25,62,56,14,1,0,1,18,1,9,22,6,0,0,0,0,0,2,0.323,0.321,0.644,0.000,0,baystars
+44,佐野 恵太,0.095,18,24,21,2,1,0,0,3,1,1,5,3,0,0,0,0,0,0,0.208,0.143,0.351,0.167,0,baystars
+50,下園 辰哉,0.100,8,11,10,1,0,0,0,1,0,0,2,1,0,0,0,0,0,1,0.182,0.100,0.282,0.000,0,baystars
+51,宮﨑 敏郎,0.323,128,523,480,155,28,1,15,230,62,53,47,38,4,0,1,0,0,23,0.377,0.479,0.856,0.291,9,baystars
+52,細川 成也,0.400,2,6,5,2,0,0,2,8,4,2,3,1,0,0,0,0,0,0,0.500,1.600,2.100,0.500,0,baystars
+55,Ｇ．後藤 武敏,0.115,26,29,26,3,1,0,0,4,3,0,7,3,0,0,0,0,0,1,0.207,0.154,0.361,0.286,1,baystars
+57,青柳 昴樹,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+60,白根 尚貴,0.231,12,13,13,3,0,0,1,6,2,2,2,0,0,0,0,0,0,0,0.231,0.462,0.692,0.000,0,baystars
+61,松本 啓二朗,0.250,13,14,12,3,0,0,0,3,0,1,2,0,2,0,0,0,0,0,0.357,0.250,0.607,0.000,0,baystars
+63,関根 大気,0.158,29,20,19,3,0,0,0,3,1,4,5,1,0,0,0,0,0,0,0.200,0.158,0.358,0.286,0,baystars
+64,百瀬 大騎,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+66,西森 将司,0.000,8,3,3,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0.000,0.000,0.000,null,0,baystars
+67,田中 浩康,0.201,66,175,154,31,3,1,1,39,20,15,25,11,2,8,0,2,0,4,0.263,0.253,0.517,0.289,1,baystars
+98,シリアコ,0.074,12,28,27,2,1,0,0,3,0,1,10,1,0,0,0,0,0,0,0.107,0.111,0.218,0.000,2,baystars
+100,網谷 圭将,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+101,山本 武白志,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
+102,亀井 塔生,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,baystars
